@@ -39,6 +39,6 @@ Movies enjoy a special place in everyone's memories as both an adult and as a ch
 
 
 
-For more information, kindly refer to the 'Moves_Analysis.ipynb' or review the 'Movies_Analysis+presentation.pdf' provided in the repository.
+For more information, kindly refer to the 'Moves_Analysis.ipynb' or review the 'Movies_Analysis_presentation.pdf' provided in the repository.
 
 
