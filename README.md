@@ -1,14 +1,10 @@
-# Phase 1 Project
-
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
-
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+![image](https://github.com/Damuki007/dsc-phase-1-project/assets/133117885/4d3350e0-d0d8-479a-9292-2d9249e93ecd)![image](https://github.com/Damuki007/dsc-phase-1-project/assets/133117885/9d00748c-d858-4dc4-b122-5920865fabcd)# Phase 1 Project
 
 ## Project Overview
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+This project uses exploratory data analysis descriptive statistics, ratings, and title data from iMDb as well as  movie-grossing Box Office Mojo and The Numbers to generate insights for  Microsoft company who would like to create a new studio.
+
+
 
 ### Business Problem
 
@@ -20,46 +16,29 @@ In the folder `zippedData` are movie datasets from:
 
 * [Box Office Mojo](https://www.boxofficemojo.com/)
 * [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+### Methods
+Application of descriptive statistics, exploratory data analysis, and various visualization techniques to make sense of data provided.
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+### Results
+![image](https://github.com/Damuki007/dsc-phase-1-project/assets/133117885/bb9447b4-5124-44e6-94d9-7ce22578f79b)
+![image](https://github.com/Damuki007/dsc-phase-1-project/assets/133117885/97d4c353-3ee5-4d64-a86f-c57e03c6840d)
+![image](https://github.com/Damuki007/dsc-phase-1-project/assets/133117885/d31696c1-79d4-46ce-bfe8-d61a4047e0aa)
 
-## Deliverables
-
-There are three deliverables for this project:
-
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
-
-### Key Points
-
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
-
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
-
-## Getting Started
-
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
+## Recommendations
+- The gross numbers(domestic, foreign & total) as well as return on investment numbers indicate a market of movies that is on the rise, hence the decision to create a studio company is well supported by the data in this report.
+- The studio should aim for output of upwards of 15 movie projects on an annual basis in order to stay competitive with the most dominant players in the market such as A24 Studios, Amazon Studios, Annapurna Studios, etc.
+- Microsoft movie studio should take advantage of the current state of the market that is still recovering from the effects of the coronavirus pandemic to launch a competitive studio and ride the wave to success as return on investment from movies should return to pre-pandemic margins in the next few years.
+- Microsoft should invest in making movies across all genres in order to attract a more diverse audience hence increasing the likelihood for higher gross values.
+- Content created on this studio platform should have runtimes that average 90 - 100 minutes.
 
 ## Summary
 
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+Movies enjoy a special place in everyone's memories as both an adult and as a child, hence, as a product it is marketable across all ages. The data analyzed in this report has shown that they enjoy steady average return rates of upwards of 1.5x with ever increasing gross both locally and internationally. The product is however unique in that outliers are not uncommon and movies, depending on factors such as popularity, cultural influence, timing, hidden messages and other nuanced intangible factors; can result in a singular movie product generating supernormal profits of up to 1000x return on investment.
+
+
+
+For more information, kindly refer to the 'Moves_Analysis.ipynb' or review the 'Movies_Analysis+presentation.pdf' provided in the repository.
+
+
