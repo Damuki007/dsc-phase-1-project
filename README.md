@@ -24,7 +24,6 @@ Application of descriptive statistics, exploratory data analysis, and various vi
 ### Results
 ![image](https://github.com/Damuki007/dsc-phase-1-project/assets/133117885/bb9447b4-5124-44e6-94d9-7ce22578f79b)
 ![image](https://github.com/Damuki007/dsc-phase-1-project/assets/133117885/97d4c353-3ee5-4d64-a86f-c57e03c6840d)
-![image](https://github.com/Damuki007/dsc-phase-1-project/assets/133117885/d31696c1-79d4-46ce-bfe8-d61a4047e0aa)
 
 ## Recommendations
 - The gross numbers(domestic, foreign & total) as well as return on investment numbers indicate a market of movies that is on the rise, hence the decision to create a studio company is well supported by the data in this report.
